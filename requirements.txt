@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+pypdf
+youtube-transcript-api
+pytube
+beautifulsoup4
+ollama
+nest_asyncio
